@@ -1,5 +1,6 @@
 # The_Deus_Machine
 The Deus Machine, A novel for Learning Machine Learning
+![alt text](Thedeusmachine.JPG)
 What happens if a machine becomes the God?
 
 Spinoza, my favorite philosopher said that God is nature indeed and Hegel, the philosopher of philosophers said that God is the history. The history in which the constant battle or dialectic between a thesis and an antithesis creates a synthesis. In the sequence of these battles and in the conflict of interests of them, self-consciousness is raised, and this collective self-consciousness is God.
